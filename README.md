@@ -1,10 +1,18 @@
 # Flask Web App on AWS EC2
 
-Simple Flask app deployed on AWS EC2.
+A simple Python Flask web application deployed on AWS EC2.
 
-## Run
+## Tech Stack
+Python
+Flask
+AWS EC2
+Git / GitHub
+
+## Run locally
+
 pip install -r requirements.txt
 python3 app.py
 
-Open:
-http://<EC2_PUBLIC_IP>:5000
+## Access
+
+http://EC2_PUBLIC_IP:5000
